@@ -1,0 +1,8 @@
+{
+  "name": "HisabPro",
+  "description": "A clean, simple, and intuitive daily income and expense manager with budget tracking, cashflow overview, and instant financial insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
